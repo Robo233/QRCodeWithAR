@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QRTest.unity
+    guid: ca559f892c269a443b71816df573dea6
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f845e15fed1fc9944bfcf4034cdacdcc,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d14b7e270fa096741af10e9b8ad532e9,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 2787821f6938e60499f08bd8624d8d49, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 17af9510870fdab409593cb20a4d5c9a, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: dd3c9295fed57464db47c5b8dfcba618,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 4763de6f3fdf0e84d9fa3aa7587ba941,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: fe4ac520cdc619c4eace063885f762f7,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dcb305671e2836e45bb9d16017ef8bc4,
+      type: 2}
