@@ -1,0 +1,11 @@
+<aws region="eu-central-1">
+    <logging loglevel="Verbose" />
+    <s3>
+        <service url="https://s3-eu-central-1.amazonaws.com" />
+    </s3>
+    <cognito>
+        <identity>
+            <poolid>eu-central-1:8e71f948-68ca-41e0-8065-babade833d34</poolid>
+        </identity>
+    </cognito>
+</aws>
